@@ -2,7 +2,7 @@
 re codded by afnanplk
 */
 
-const Asena = require('../events');
+const Asena = require('../10 M CLASS GRP HACKING METHOD');
 const Heroku = require('heroku-client');
 const Config = require('../config');
 const {MessageType} = require('@adiwajshing/baileys');
@@ -11,7 +11,7 @@ const fs = require('fs');
 const Db = require('./sql/plugin');
 
 const Language = require('../language');
-const Lang = Language.getString('_plugin');
+const Lang = Language.getString('OCIAN BLUE');
 const NLang = Language.getString('updater');
 
 let msg = Config.LANG == 'TR' || Config.LANG == 'AZ' ? '*Bu Plugin Resmi Olarak Onaylanmıştır!* ✅' : '*This Plugin is Officially Approved!* ✅'
